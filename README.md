@@ -1,6 +1,9 @@
 # SimpleSwiftAseanGame
 
 
+<img width="253" alt="Screenshot 2023-10-20 at 07 28 53" src="https://github.com/StevenO29/SimpleSwiftAseanGame/assets/95264788/c6780514-335b-46bf-8a00-58a802327ff9">
+
+
 SimpleSwiftAseanGame is a fun and educational game that challenges players' knowledge of the ASEAN (Association of Southeast Asian Nations) countries and their flags. Test your geography skills and have a great time while learning about the diverse cultures of Southeast Asia!
 
 
